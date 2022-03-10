@@ -1,0 +1,1 @@
+# https-github.com-mavrick202-terraformsingleinstance
